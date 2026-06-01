@@ -298,47 +298,6 @@ Designed a solar energy integration system for EV charging — focused on MPPT a
 
 ---
 
-### 👨‍💼 Employee Management System
-> **C · File Handling · Linked Lists**
-
-Console-based CRUD system in C with file persistence and structured data management using linked lists.
-
----
-
-### ⚡ Tesla Coil
-> **High Voltage Electronics · Resonant Circuits**
-
-Built and tested a functional Tesla coil demonstrating resonant transformer principles and wireless power transmission.
-
----
-
-## 💼 Experience
-
-### 🏆 Embedded Systems with AI Intern — Cranes Varsity Pvt. Ltd.
-**Jul 2025 – Jan 2026 | Bangalore**
-
-- Developed firmware for **ARM-based platforms** using Keil µVision
-- Worked on AI inference integration on microcontrollers
-- **Awarded Best Intern** for outstanding project delivery
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|--------|------------|------|-------|
-| B.E. — Electrical & Electronics Engineering | PVKK Institute of Technology | Dec 2021 – Nov 2025 | **71.93%** |
-
----
-
-## 📜 Certifications
-
-- ⚡ EV Technology — SWAYAM / SKILLDZIRE
-- 🌐 IoT Fundamentals — SWAYAM
-- 🏭 Industrial Training — AP TRANSCO Substations
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -359,16 +318,4 @@ Built and tested a functional Tesla coil demonstrating resonant transformer prin
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
----
-
-## 🎯 Currently Targeting
-
-`KPIT Technologies` · `Bosch India` · `Tata Elxsi` · `L&T Technology Services` · `Sasken Technologies`
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00ff41&label=Profile+Views" />
-</p>
-
-<p align="center"><i>"Turning ideas into silicon." ⚡</i></p>
+</i></p>
