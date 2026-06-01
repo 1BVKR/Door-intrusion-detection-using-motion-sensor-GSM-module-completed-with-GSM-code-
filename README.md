@@ -1,4 +1,3 @@
-/* ============================================================
    DOOR INTRUSION DETECTION SYSTEM
    Files merged: gsm.h + gsm.c + main.c
    Board: LPC1768 | GSM: SIM800L via UART1
